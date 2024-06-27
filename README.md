@@ -1,2 +1,2 @@
 # deconverse_data
-Data cache for deconverse
+Cached data for deconverse, downloaded by the package.
